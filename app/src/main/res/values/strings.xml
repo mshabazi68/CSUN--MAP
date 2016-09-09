@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CsunMap</string>
+    <string name="title_activity_welcome">Map</string>
+</resources>
